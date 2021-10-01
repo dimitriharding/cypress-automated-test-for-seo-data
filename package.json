@@ -1,0 +1,14 @@
+{
+  "name": "automated-tests-for-seo-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Dimitri Harding",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}
